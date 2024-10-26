@@ -1,13 +1,11 @@
-
-
+import Header from "./component/header"
+import Players from "./component/Players"
 function App() {
- 
 
   return (
     <>
-      <p className="read-the-docs">
-       reacts
-      </p>
+      <Header></Header>
+      <Players></Players>
     </>
   )
 }

@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "country": "Bangladesh",
+        "role": "Batter",
+        "price": "2000000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 2,
+        "name": "Jasprit Bumrah",
+        "country": "Frans",
+        "role": "Bowler",
+        "price": "1800000",
+        "rank": "All-Rounder",
+        "position": "right-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+
+    },
+    {
+        "id": 3,
+        "name": "Joe Root",
+        "country": "England",
+        "role": "Batter",
+        "price": "1500000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+
+    },
+    {
+        "id": 4,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "role": "Bowler",
+        "price": "1600000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+
+    },
+    {
+        "id": 5,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "role": "Batter",
+        "price": "1700000",
+        "rank": "All-Rounder",
+        "position": "right-Hand-Bat",
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+
+    },
+    {
+        "id": 6,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "role": "Bowler",
+        "price": "1400000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 7,
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batter",
+        "price": "1900000",
+        "rank": "All-Rounder",
+        "position": "right-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 8,
+        "name": "Kagiso Rabada",
+        "country": "South Africa",
+        "role": "Bowler",
+        "price": "1600000",
+        "rank": "All-Rounder",
+        "position": "right-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 9,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batter",
+        "price": "1700000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 10,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "role": "Bowler",
+        "price": "2200000",
+        "rank": "All-Rounder",
+        "position": "right-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 11,
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "Batter",
+        "price": "2100000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    },
+    {
+        "id": 12,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "role": "Bowler",
+        "price": "1500000",
+        "rank": "All-Rounder",
+        "position": "Left-Hand-Bat",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVWwAL8F0Je4uGI3tIXZvBIXcE7t8ebY6RQ&s"
+    }
+]
